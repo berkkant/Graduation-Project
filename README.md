@@ -7,5 +7,6 @@ In order to run this FL architecture, we need to first run the server
 
 and then we need to open different terminals for each client and run these commands for each terminal.
 - python3 client<client_number> <port_number>
+
 Then the FL process will start.
 
