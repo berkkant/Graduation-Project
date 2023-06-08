@@ -3,8 +3,8 @@ In our project, we want to predict people's sleep quality by applying state-of-t
 
 # Execution
 In order to run this FL architecture, we need to first run the server
-python3 server.py <port_number>
+- python3 server.py <port_number>
 and then we need to open different terminals for each client and run these commands for each terminal.
-python3 client<client_number> <port_number>
+- python3 client<client_number> <port_number>
 Then the FL process will start.
 
